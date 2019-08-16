@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">252829615357-9lc8mmn2a9ajmbskhfg25ebvt3ki6pbo.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ocpapp-a4739.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">252829615357</string>
+    <string name="google_api_key" translatable="false">AIzaSyAo5ekDE-_xD6BZtuayKA7ZTDQDMNI_3Ms</string>
+    <string name="google_app_id" translatable="false">1:252829615357:android:d6c053d41942a741</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAo5ekDE-_xD6BZtuayKA7ZTDQDMNI_3Ms</string>
+    <string name="google_storage_bucket" translatable="false">ocpapp-a4739.appspot.com</string>
+    <string name="project_id" translatable="false">ocpapp-a4739</string>
+</resources>
