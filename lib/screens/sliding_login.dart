@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:ocp/screens/machines/machineActivity.dart';
 import 'package:ocp/services/authentication.dart';
 import 'package:ocp/services/validations.dart';
-import 'package:ocp/main.dart';
 
-import '../home.dart';
 void main() => runApp(MyApp());
 UserAuth userAuth = new UserAuth();
 bool autovalidate = false;
@@ -66,7 +65,7 @@ class HomePageState extends State<HomePage>
       width: MediaQuery.of(context).size.width,
       height: loginSize.value,
       decoration: BoxDecoration(
-          color: Color(0XFF8bb910),
+          color: Color(0XFF3ad9b1),
           borderRadius: BorderRadius.only(
               bottomLeft: Radius.circular(190),
               bottomRight: Radius.
@@ -160,7 +159,7 @@ class HomePageState extends State<HomePage>
                     onPressed:signIn ,
                     child: Text(
                       'LOG IN',
-                      style: TextStyle(color: Color(0XFF8bb910),
+                      style: TextStyle(color: Color(0XFF3ad9b1),
                           fontWeight: FontWeight.bold
                       ),
                     ),
@@ -197,7 +196,7 @@ class HomePageState extends State<HomePage>
               style: TextStyle(
                   fontSize: 32,
                   fontWeight: FontWeight.bold,
-                  color: Color(0XFF8bb910)),
+                  color: Color(0XFF3ad9b1)),
             ),
           ),
           TextField(
@@ -242,7 +241,7 @@ class HomePageState extends State<HomePage>
               height: 40,
               margin: EdgeInsets.only(top: 32),
               decoration: BoxDecoration(
-                  color: Color(0XFF8bb910),
+                  color: Color(0XFF3ad9b1),
                   borderRadius: BorderRadius.all(Radius.circular(50))
               ),
               child: Center(
@@ -301,7 +300,7 @@ class HomePageState extends State<HomePage>
                       style: TextStyle(
                         fontSize: 32,
                         fontWeight: FontWeight.bold,
-                        color: Color(0XFF8bb910),
+                        color: Color(0XFF3ad9b1),
                       ),
                     ),
                   ),
@@ -338,8 +337,7 @@ class HomePageState extends State<HomePage>
             password: _password)).user;
         print('heere is the ${user}');
         Navigator.push(context, MaterialPageRoute(builder: (context)
-        => Home(user: user)));
-        
+        => machineActivity()));
       }catch(e){
         print('heerree');
         print('here is the prob ${e}');

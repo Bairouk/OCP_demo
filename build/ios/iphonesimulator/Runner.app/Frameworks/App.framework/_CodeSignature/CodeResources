@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		VucX+ZHDUD83ipyxEeEiohyMf/8=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -19,6 +19,38 @@
 		<key>flutter_assets/LICENSE</key>
 		<data>
 		OmqmmOZ8p/5VQ+peP/0UJBkEA7A=
+		</data>
+		<key>flutter_assets/assets/images/bulldozer.png</key>
+		<data>
+		M/aZAPIIDzHSPwYbASwICT2sKPU=
+		</data>
+		<key>flutter_assets/assets/images/dotted.png</key>
+		<data>
+		C6EQ3P1YWhkwBtKz+quhOzUXzAE=
+		</data>
+		<key>flutter_assets/assets/images/dragline.png</key>
+		<data>
+		p1STMM1beix7BUZA3MecWYYO4w8=
+		</data>
+		<key>flutter_assets/assets/images/drilling.png</key>
+		<data>
+		CVr40TDGGQj8Y5ZoNljQxhF2RAI=
+		</data>
+		<key>flutter_assets/assets/images/loader.png</key>
+		<data>
+		mEVDEHGhsq2SXbpgZavWMmen9Gk=
+		</data>
+		<key>flutter_assets/assets/images/miningtruck.png</key>
+		<data>
+		A95FqaUFOEXf3ZqqX+TqydXVDCU=
+		</data>
+		<key>flutter_assets/assets/images/ocplogo.png</key>
+		<data>
+		yW8y6uymTctmgp08xKpVOA9rdlM=
+		</data>
+		<key>flutter_assets/assets/images/tremie.png</key>
+		<data>
+		sDpQQT38yoLcRsL7cN/JLB3UgAk=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
 		<data>
@@ -30,7 +62,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		3OL+/zRZotucyGx9KYJu27hURSM=
+		bmBeuoF7PNO15yKlW1NRTQvOOCc=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -47,11 +79,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+			VucX+ZHDUD83ipyxEeEiohyMf/8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			ambERp2wbcSLvl4AlZKp8oSRZ41UZnWeAtBiIPv5LrA=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -74,6 +106,94 @@
 			<key>hash2</key>
 			<data>
 			H8aNe5iDVjJhahJ76OcoS+jODEojduVA+6q0QQt9Hu0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/bulldozer.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M/aZAPIIDzHSPwYbASwICT2sKPU=
+			</data>
+			<key>hash2</key>
+			<data>
+			MOZccALQaFoL8ZSWAnsXSXfQSKvYvfnhP55wUUPms60=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/dotted.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C6EQ3P1YWhkwBtKz+quhOzUXzAE=
+			</data>
+			<key>hash2</key>
+			<data>
+			jn7uWyLNECowWVVEttQ1UVBCiaxCFBUbvtl9n1cgQBw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/dragline.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p1STMM1beix7BUZA3MecWYYO4w8=
+			</data>
+			<key>hash2</key>
+			<data>
+			G8SOgsbuZbKBOi4sVYQPimrXq292xIwmmDEN2CeHb0Y=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/drilling.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CVr40TDGGQj8Y5ZoNljQxhF2RAI=
+			</data>
+			<key>hash2</key>
+			<data>
+			3eqjdAQ8oJtnqxc7UoVn120PmvRAVepF0iXuT9qjako=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/loader.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mEVDEHGhsq2SXbpgZavWMmen9Gk=
+			</data>
+			<key>hash2</key>
+			<data>
+			qzeu1Lj1Exi6zwwvuTNxBZgAUgCWZlIrrtFquxEBmXg=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/miningtruck.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			A95FqaUFOEXf3ZqqX+TqydXVDCU=
+			</data>
+			<key>hash2</key>
+			<data>
+			tqO9qUyZWxP+M59a+mSbuM/CmdzJ4mA3Dj5+VcU0lhk=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/ocplogo.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yW8y6uymTctmgp08xKpVOA9rdlM=
+			</data>
+			<key>hash2</key>
+			<data>
+			h5xQ5/6bKSNEW92k9HDTprNYMIQhXNKY2QFbSDqbyGY=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/tremie.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sDpQQT38yoLcRsL7cN/JLB3UgAk=
+			</data>
+			<key>hash2</key>
+			<data>
+			GyaEGosckPXKnZYDJcfCklRinG7+mrvgu3YRFxLouw4=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
@@ -102,11 +222,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3OL+/zRZotucyGx9KYJu27hURSM=
+			bmBeuoF7PNO15yKlW1NRTQvOOCc=
 			</data>
 			<key>hash2</key>
 			<data>
-			dwGPLenKLorbZ2ATazMwOtaRQfke8S+LcewKmW7L8dg=
+			IOHSVAGgW99zpGTlZ/fAQ3oIW47HQFVz6LGfbv3WZ3s=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
